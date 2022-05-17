@@ -1,0 +1,10 @@
+/.DS_Store
+/.vscode
+/Learning curve.png
+/NeuralNetwork3 slow.py
+/NeuralNetwork3 test.py
+/test_image.csv
+/test_label.csv
+/test_predictions.csv
+/train_image.csv
+/train_label.csv
